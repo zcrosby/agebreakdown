@@ -1,0 +1,11 @@
+{
+  "name": "agebreakdown",
+  "version": "0.0.1",
+  "description": "Enter your age and get a breakdown in months, weeks, days, hours, minutes and seconds. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "agebreakdown"
+  },
+  "author": "Zalyndria S. Crosby",
+  "license": "ISC"
+}
